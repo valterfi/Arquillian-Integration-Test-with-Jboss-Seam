@@ -1,4 +1,7 @@
 Seam Booking Example
+
+mvn install:install-file -Dfile=jboss-eap-6.3.zip -DgroupId=br.gov.ce.fortaleza.sefin -DartifactId=jboss-eap-as-dist -Dversion=6.3 -Dpackaging=zip
+
 =================
 
 This example demonstrates the use of Seam in a Java EE 6 environment.
